@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **web development**
 
-- 👨‍💻 All of my android apps are available at [myapps.bio.link](myapps.bio.link)
+- 👨‍💻 [My Apps](https://myapps.bio.link)
 
-- 📝 I regularly write articles on [izhanali.hashnode.dev](izhanali.hashnode.dev)
+- 📝 Here's my [blog](https://izhanali.hashnode.dev)
 
 </br>
 <h3 align="left">Connect with me:</h3>
