@@ -1,6 +1,10 @@
 ### Hi there 👋 I'm Izhan,
-
-<h4 align="center">Developer with hands on experience in Mobile App development</h4>
+<p align="right">
+  
+  <a href="https://linkedin.com/in/mohdizhanali" target="blank"><img align="center" src="https://badgen.net/badge/Connect/LinkedIn/blue" alt="mohdizhanali"   /></a>
+  <a href="https://twitter.com/izhanal1" target="blank"><img align="center" src="https://badgen.net/badge/icon/Twitter?icon=twitter&label=IzhanAl1" alt="izhanal1"   /></a>
+  </p>
+<h4 align="left">Developer with hands on experience in Mobile App development</h4>
 
 - 🌱 I’m currently learning **full stack development**
 
@@ -13,12 +17,26 @@
 - 📫 You can reach out to me <strong>[here](https://izhan.bio.link)</strong>
 
 </br>
-<h3 align="left">Connect with me:</h3>
+<tr align="center">
+  <td>
+    <a href="https://myapps.bio.link" target="blank"><img align="center" src="https://badgen.net/badge/icon/Google%20Play/green?icon=googleplay&label=IzhanDroid" alt="myapps"/> </a>
+  </td>
+  </br>
+  <td>
+    <a href="https://medium.com/@izhanali" target="blank"><img align="center" src="https://badgen.net/badge/icon/Medium/black?icon=medium&label" alt="medium"/> </a>
+  </td>
+  <td>
+    <a href="https://izhanali.hashnode.dev" target="blank"><img align="center" src="https://badgen.net/badge/Hashnode/Blog/cyan" alt="medium"/> </a>
+  </td>
+  </tr>
+
+
+<!--<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/izhanal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="izhanal1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohdizhanali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohdizhanali" height="30" width="40" /></a>
 <a href="https://medium.com/@izhanali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@izhanali" height="30" width="40" /></a>
-</p>
+</p>-->
 
 </br>
 <h3 align="left">Languages and Tools:</h3>
