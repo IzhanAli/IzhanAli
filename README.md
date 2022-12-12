@@ -1,12 +1,16 @@
-### Hi there 👋 I'm Izhan
+### Hi there 👋 I'm Izhan,
 
 <h4 align="center">Developer with hands on experience in Mobile App development</h4>
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning **full stack development**
 
-- 👨‍💻 [My Apps](https://myapps.bio.link)
+- 🔭 I'm exploring and getting started with **machine learning**
 
-- 📝 Here's my [blog](https://izhanali.hashnode.dev)
+- 👨‍💻 <i><strong>[My Apps](https://myapps.bio.link)</i></strong>
+
+- 📝 I write every week. Here's my <strong>[blog](https://izhanali.hashnode.dev)</strong>
+
+- 📫 You can reach out to me <strong>[here](https://izhan.bio.link)</strong>
 
 </br>
 <h3 align="left">Connect with me:</h3>
@@ -23,6 +27,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=izhanali&show_icons=true&theme=dracula&locale=en&layout=compact" alt="izhanali" /></p>
 </br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izhanali&show_icons=true&theme=dracula&locale=en" alt="izhanali" /></p>
+</br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izhanali&theme=dark" alt="izhanali" /></p>
 
 </br>
 </br>
