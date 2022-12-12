@@ -8,7 +8,7 @@
 
 - 👨‍💻 <i><strong>[My Apps](https://myapps.bio.link)</i></strong>
 
-- 📝 I write every week. Here's my <strong>[blog](https://izhanali.hashnode.dev)</strong>
+- 📝 I write too. Here's my <strong>[blog](https://izhanali.hashnode.dev)</strong>
 
 - 📫 You can reach out to me <strong>[here](https://izhan.bio.link)</strong>
 
