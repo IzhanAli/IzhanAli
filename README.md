@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Izhan,
+## Hi there 👋 I'm Izhan,
 <p align="right">
   
   <a href="https://linkedin.com/in/mohdizhanali" target="blank"><img align="center" src="https://badgen.net/badge/Connect/LinkedIn/blue" alt="mohdizhanali"   /></a>
@@ -6,7 +6,7 @@
   </p>
 
 
-#### Full stack and mobile app developer
+### Full Stack and Mobile App Developer
 -----------------------------------
 
 A pre-final year engineering student with hands on experience in Android Application development. Currently learning full-stack development with JavaScript Also exploring machine learning using Python. I've Worked with Android SDKs, Java, Rest APIs, Multi screen apps, Firebase Cloud Database, Networks, Git. I am always open to collaborate on projects and work with you. I also strive to contribute towards open source software
