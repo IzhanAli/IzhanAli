@@ -9,7 +9,7 @@
 ### Full Stack and Mobile App Developer
 -----------------------------------
 
-A pre-final year engineering student with hands on experience in Android Application development. Currently learning full-stack development with JavaScript Also exploring machine learning using Python. I've Worked with Android SDKs, Java, Rest APIs, Multi screen apps, Firebase Cloud Database, Networks, Git. I am always open to collaborate on projects and work with you. I also strive to contribute towards open source software
+A pre-final year engineering student with hands on experience in Android App development. Currently learning full-stack development with JavaScript Also exploring machine learning using Python. I've Worked with Android SDKs, Java, Rest APIs, Multi screen apps, Firebase Cloud Database, Networks, Git. I am always open to collaborate on projects and work with you. I also strive to contribute towards open source software
 
 
 - 🌱 I’m currently learning **full stack development**
