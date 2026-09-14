@@ -6,9 +6,9 @@
   </p>
 
 
-### Full Stack and Mobile App Developer
+### Full Stack and AI Engineer
 -----------------------------------
-Software Engineer with 1+ year experience specialized in Mobile App development. My technology stack is backend with Java, frontend with TypeScript, mobile app development with React Native and Native Kotlin. I've worked with Android SDK, Java, Rest APIs, Multi screen apps, Firebase Cloud Database, Networks, Git. I am always open to collaborate on projects and work with you. I also strive to contribute towards open source software
+Software Engineer with 2+ years experience specialized in App development & Agentic AI. My technology stack is backend with Java, frontend with TypeScript, mobile app development with React Native and Native Kotlin. I am always open to collaborate on projects and work with you. I also strive to contribute towards open source software
 
 
 - 🌱 I’m currently learning **full stack development**
