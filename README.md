@@ -11,7 +11,7 @@
 Software Engineer with 2+ years experience specialized in App development & Agentic AI. My technology stack is backend with Java, frontend with TypeScript, mobile app development with React Native and Native Kotlin. I am always open to collaborate on projects and work with you. I also strive to contribute towards open source software
 
 
-- 🌱 I’m currently learning **full stack development**
+- 🌱 I’m currently building **full stack apps**
 
 - 👨‍💻 <i><strong>[My Apps](https://myapps.bio.link)</i></strong>
 
@@ -44,7 +44,7 @@ Software Engineer with 2+ years experience specialized in App development & Agen
 </br>
 <br>
 <br>
-<b>My GitHub Stats</b>
+<!-- <b>My GitHub Stats</b> -->
 
 <!--<a href="http://www.github.com/izhanali"><img src="https://github-readme-stats.vercel.app/api?username=izhanali&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="izhanali's GitHub stats" /></a>
 
