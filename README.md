@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Izhan,
 <p align="right">
   
-  <a href="https://linkedin.com/in/mohdizhanali" target="blank"><img align="center" src="https://badgen.net/badge/Connect/LinkedIn/blue" alt="mohdizhanali"   /></a>
+  <a href="https://izhan.bio.link" target="blank"><img align="center" src="https://badgen.net/badge/Connect/LinkedIn/blue" alt="mohdizhanali"   /></a>
   <a href="https://twitter.com/izhanal1" target="blank"><img align="center" src="https://badgen.net/badge/icon/Twitter?icon=twitter&label=IzhanAl1" alt="izhanal1"   /></a>
   </p>
 
